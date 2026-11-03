@@ -1,0 +1,1 @@
+Download Amazon Fine Food Reviews from https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews and place Reviews.csv here. The script uses Text and Score. Ratings 1–2 become Negative (0), 4–5 become Positive (1), and 3-star reviews are excluded. Dataset is not redistributed; follow its terms.
